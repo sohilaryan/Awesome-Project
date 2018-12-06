@@ -106,6 +106,7 @@ public class SOPwithShapes {
 		System.out.println("             ||   |||     ||   \\ ||     ");
 		System.out.println("     =========    |||	  ||    \\||     ");
 		
+		This is an awesome work.
 	}
 
 }
